@@ -1,9 +1,8 @@
 
 # Technology Used
-<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,vite,ts,js,npm " /> <img src = "https://jwt.io/img/pic_logo.svg" width = 50px> <img src = "https://zod.dev/_next/image?url=%2Flogo%2Flogo-glow.png&w=640&q=100" width = 50px>
+<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,vite,ts,js,npm " />
 
 |`react`|`nodejs`|`tailwindcss`|`vite`|`typescript`|`javascript`|
-|---|---|---|---|---|---|---|---|---|---|---|
 
 # Local Setup
 - ## By CLI
